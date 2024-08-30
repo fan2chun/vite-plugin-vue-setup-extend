@@ -43,7 +43,7 @@
   "homepage": "https://github.com/vbenjs/vite-plugin-vue-setup-extend/tree/master/#readme",
   "dependencies": {
     "@vue/compiler-sfc": "^3.2.29",
-    "magic-string": "^0.25.7"
+    "magic-string": "^0.30.11"
   },
   "peerDependencies": {
     "vite": ">=2.0.0"
